@@ -12,3 +12,6 @@ bookbot is a simple python script which lists book reports about a list of books
 4. in the root directory (`bookbot/`) run the script using the following command: `python main.py` 
 
 IMPORTANT NOTE: all books must have a `.txt` extension!
+
+### Example Output
+![githubpic](https://github.com/sanctumnes/bookbot/assets/111234209/e5c274a3-760a-4f3c-bafe-c5a1fde571b0)
